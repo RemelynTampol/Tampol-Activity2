@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    color: #414141;
+    font-family: PT Serif 400;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+header h1{
+    color: #414141;
+    font-family: Cinzel 900;
+    font-size: 96px;
+    text-transform: uppercase;
+    line-height: .9;
+    margin-bottom: auto;
+}
+
+.subtitle{
+    color: #7D7D7D;
+    font-family: PT Serif 400;
+    line-height: 1.1;
+    font-size: 36px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 65%;
+  
+    
+}
+
+.container{
+    margin-top: 30px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.lead{
+    font-size: 21px;
+}
+
+a{
+    color: #CA5E10;
+}
